@@ -1,6 +1,5 @@
----
 
- *This QA project is part of my personal learning journey. I’ve used real-world practices, explored manual + automation testing, and crafted every part of this from scratch with guidance from tutorials and mentorship tools. I'm constantly improving and open to feedback.* 💡
+ *This QA project is part of my personal learning journey. I’ve used real-world practices, explored manual + automation testing, and crafted every part of this from scratch with guidance from tutorials and mentorship tools. I'm constantly improving and open to feedback.* 
 
 
 # saucecart-qa-project
