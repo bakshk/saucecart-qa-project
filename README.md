@@ -11,3 +11,44 @@ It includes test strategy, planning, manual testing, bug reporting, and basic Se
 ## 📁 Project Structure
 
 
+---
+
+## 🔧 Tools Used
+- Google Sheets, Docs
+- Selenium + Python
+- Chrome DevTools
+- SauceDemo test app
+
+---
+
+## ✅ Features Tested
+- Login (valid/invalid)
+- Add to Cart
+- Checkout Flow
+- UI Error Handling
+- Integration: Cart → Checkout → Confirmation
+
+---
+
+## 🤖 Automation Scripts
+Located in `/Automation/`, written in Python with Selenium WebDriver.
+
+---
+
+## 🧪 QA Focus Areas
+- Functional Testing
+- End-to-End Testing
+- Manual + Automation blend
+- Test Strategy & Planning
+- Defect Logging
+- UAT-style Scenarios
+
+---
+
+## 🧑‍💻 Credentials for SauceDemo
+- Username: `standard_user`
+- Password: `secret_sauce`
+
+---
+
+
